@@ -4,6 +4,8 @@ Project goal is to analyze news sources and determine their overall quality. Thi
 
 See our design document here: https://github.com/aouyang3/teamhackandslash/blob/main/Design%20Doc.pdf
 
+See our presentation and Devpost project ![here]([https://github.com/aouyang3/teamhackandslash/assets/73046283/8e9b48a6-99e7-4117-b284-7aa38ddbb663](https://devpost.com/software/optimizing-news-recommendation-algorithms))
+
 Main program is hackgt.py
 
 ## Pre-requirments:
