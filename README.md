@@ -8,3 +8,8 @@ Main program is hackgt.py
 
 ## Pre-requirments:
 run `pip install -r requirements.txt`
+
+## Output Rankings
+![image](https://github.com/aouyang3/teamhackandslash/assets/73046283/8e9b48a6-99e7-4117-b284-7aa38ddbb663)
+
+
